@@ -1,0 +1,600 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>99DF</Machine>
+    <WindowsUser>prographica</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\css\general.css">
+      <PackagePath>resources\css\general.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\button_blue.png">
+      <PackagePath>resources\images\button_blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\button_cross.png">
+      <PackagePath>resources\images\button_cross.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\button_green.png">
+      <PackagePath>resources\images\button_green.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\button_red.png">
+      <PackagePath>resources\images\button_red.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\button_yellow.png">
+      <PackagePath>resources\images\button_yellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\accesarry\apple.png">
+      <PackagePath>resources\images\set1\accesarry\apple.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\accesarry\honey.png">
+      <PackagePath>resources\images\set1\accesarry\honey.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\bear\body.png">
+      <PackagePath>resources\images\set1\bear\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\bear\lefthand.png">
+      <PackagePath>resources\images\set1\bear\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\bear\leftleg.png">
+      <PackagePath>resources\images\set1\bear\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\bear\righthand.png">
+      <PackagePath>resources\images\set1\bear\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\bear\rightleg.png">
+      <PackagePath>resources\images\set1\bear\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\bee\body.png">
+      <PackagePath>resources\images\set1\bee\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\bee\lefthand.png">
+      <PackagePath>resources\images\set1\bee\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\bee\righthand.png">
+      <PackagePath>resources\images\set1\bee\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\gun\gun.png">
+      <PackagePath>resources\images\set2\gun\gun.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\heart\heart.png">
+      <PackagePath>resources\images\set2\heart\heart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia1\body.png">
+      <PackagePath>resources\images\set2\mafia\mafia1\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia1\lefthand.png">
+      <PackagePath>resources\images\set2\mafia\mafia1\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia1\leftleg.png">
+      <PackagePath>resources\images\set2\mafia\mafia1\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia1\righthand.png">
+      <PackagePath>resources\images\set2\mafia\mafia1\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia1\rightleg.png">
+      <PackagePath>resources\images\set2\mafia\mafia1\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia2\body.png">
+      <PackagePath>resources\images\set2\mafia\mafia2\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia2\lefthand.png">
+      <PackagePath>resources\images\set2\mafia\mafia2\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia2\leftleg.png">
+      <PackagePath>resources\images\set2\mafia\mafia2\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia2\righthand.png">
+      <PackagePath>resources\images\set2\mafia\mafia2\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia2\rightleg.png">
+      <PackagePath>resources\images\set2\mafia\mafia2\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\police\body.png">
+      <PackagePath>resources\images\set2\police\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\police\lefthand.png">
+      <PackagePath>resources\images\set2\police\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\police\leftleg.png">
+      <PackagePath>resources\images\set2\police\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\police\righthand.png">
+      <PackagePath>resources\images\set2\police\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\police\rightleg.png">
+      <PackagePath>resources\images\set2\police\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\shogai\shogai.png">
+      <PackagePath>resources\images\set2\shogai\shogai.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\targetsite\targetsite.png">
+      <PackagePath>resources\images\set2\targetsite\targetsite.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\tejo\tejo.png">
+      <PackagePath>resources\images\set2\tejo\tejo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\women\body.png">
+      <PackagePath>resources\images\set2\women\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\women\lefthand.png">
+      <PackagePath>resources\images\set2\women\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\women\leftleg.png">
+      <PackagePath>resources\images\set2\women\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\women\righthand.png">
+      <PackagePath>resources\images\set2\women\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\women\rightleg.png">
+      <PackagePath>resources\images\set2\women\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\fire\fire1.png">
+      <PackagePath>resources\images\set3\fire\fire1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\fire\fire2.png">
+      <PackagePath>resources\images\set3\fire\fire2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\hime\body.png">
+      <PackagePath>resources\images\set3\hime\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\hime\lefthand.png">
+      <PackagePath>resources\images\set3\hime\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\hime\leftleg.png">
+      <PackagePath>resources\images\set3\hime\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\hime\righthand.png">
+      <PackagePath>resources\images\set3\hime\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\hime\rightleg.png">
+      <PackagePath>resources\images\set3\hime\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\maou\body.png">
+      <PackagePath>resources\images\set3\maou\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\maou\lefthand.png">
+      <PackagePath>resources\images\set3\maou\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\maou\leftleg.png">
+      <PackagePath>resources\images\set3\maou\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\maou\righthand.png">
+      <PackagePath>resources\images\set3\maou\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\maou\rightleg.png">
+      <PackagePath>resources\images\set3\maou\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\monstar\body.png">
+      <PackagePath>resources\images\set3\monstar\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\monstar\lefthand.png">
+      <PackagePath>resources\images\set3\monstar\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\monstar\righthand.png">
+      <PackagePath>resources\images\set3\monstar\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\murabito\body.png">
+      <PackagePath>resources\images\set3\murabito\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\murabito\lefthand.png">
+      <PackagePath>resources\images\set3\murabito\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\murabito\leftleg.png">
+      <PackagePath>resources\images\set3\murabito\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\murabito\righthand.png">
+      <PackagePath>resources\images\set3\murabito\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\murabito\rightleg.png">
+      <PackagePath>resources\images\set3\murabito\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\wizard\body.png">
+      <PackagePath>resources\images\set3\wizard\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\wizard\lefthand.png">
+      <PackagePath>resources\images\set3\wizard\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\wizard\leftleg.png">
+      <PackagePath>resources\images\set3\wizard\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\wizard\righthand.png">
+      <PackagePath>resources\images\set3\wizard\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\wizard\rightleg.png">
+      <PackagePath>resources\images\set3\wizard\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\wood\wood.png">
+      <PackagePath>resources\images\set3\wood\wood.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\yusha\body.png">
+      <PackagePath>resources\images\set3\yusha\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\yusha\lefthand.png">
+      <PackagePath>resources\images\set3\yusha\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\yusha\leftleg.png">
+      <PackagePath>resources\images\set3\yusha\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\yusha\righthand.png">
+      <PackagePath>resources\images\set3\yusha\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\yusha\rightleg.png">
+      <PackagePath>resources\images\set3\yusha\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\accessory\candy.png">
+      <PackagePath>resources\images\set4\accessory\candy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\accessory\doughnut.png">
+      <PackagePath>resources\images\set4\accessory\doughnut.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\accessory\juice.png">
+      <PackagePath>resources\images\set4\accessory\juice.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\accessory\light.png">
+      <PackagePath>resources\images\set4\accessory\light.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\accessory\macaron.png">
+      <PackagePath>resources\images\set4\accessory\macaron.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\accessory\tea.png">
+      <PackagePath>resources\images\set4\accessory\tea.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\boy\body.png">
+      <PackagePath>resources\images\set4\boy\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\boy\lefthand.png">
+      <PackagePath>resources\images\set4\boy\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\boy\leftleg.png">
+      <PackagePath>resources\images\set4\boy\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\boy\righthand.png">
+      <PackagePath>resources\images\set4\boy\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\boy\rightleg.png">
+      <PackagePath>resources\images\set4\boy\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\girl\body.png">
+      <PackagePath>resources\images\set4\girl\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\girl\lefthand.png">
+      <PackagePath>resources\images\set4\girl\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\girl\leftleg.png">
+      <PackagePath>resources\images\set4\girl\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\girl\righthand.png">
+      <PackagePath>resources\images\set4\girl\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\girl\rightleg.png">
+      <PackagePath>resources\images\set4\girl\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\witch\body.png">
+      <PackagePath>resources\images\set4\witch\body.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\witch\lefthand.png">
+      <PackagePath>resources\images\set4\witch\lefthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\witch\leftleg.png">
+      <PackagePath>resources\images\set4\witch\leftleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\witch\righthand.png">
+      <PackagePath>resources\images\set4\witch\righthand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\witch\rightleg.png">
+      <PackagePath>resources\images\set4\witch\rightleg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\car1\car1.png">
+      <PackagePath>resources\images\set5\car1\car1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\car1\car1_1.png">
+      <PackagePath>resources\images\set5\car1\car1_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\car2\car2.png">
+      <PackagePath>resources\images\set5\car2\car2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\car2\car2_1.png">
+      <PackagePath>resources\images\set5\car2\car2_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\car3\car3.png">
+      <PackagePath>resources\images\set5\car3\car3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\car3\car3_1.png">
+      <PackagePath>resources\images\set5\car3\car3_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\car4\car4.png">
+      <PackagePath>resources\images\set5\car4\car4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\car4\car4_1.png">
+      <PackagePath>resources\images\set5\car4\car4_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\js\jquery-1.8.0-windows8-ready.js">
+      <PackagePath>js\jquery-1.8.0-windows8-ready.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\app.background.js">
+      <PackagePath>resources\js\app.background.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\app.charactor.js">
+      <PackagePath>resources\js\app.charactor.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\app.keypad.js">
+      <PackagePath>resources\js\app.keypad.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\app.scoreboard.js">
+      <PackagePath>resources\js\app.scoreboard.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\app.startboard.js">
+      <PackagePath>resources\js\app.startboard.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\app.weapon.js">
+      <PackagePath>resources\js\app.weapon.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\easeljs-0.5.0.min.js">
+      <PackagePath>resources\js\easeljs-0.5.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\index.js">
+      <PackagePath>resources\js\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\jquery-1.8.2.min.js">
+      <PackagePath>resources\js\jquery-1.8.2.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\lib.modal.js">
+      <PackagePath>resources\js\lib.modal.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\lib.score.js">
+      <PackagePath>resources\js\lib.score.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\tweenjs-0.3.0.min.js">
+      <PackagePath>resources\js\tweenjs-0.3.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\docs\privacy.txt">
+      <PackagePath>resources\docs\privacy.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\accesarry\.DS_Store">
+      <PackagePath>resources\images\set1\accesarry\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\bee\.DS_Store">
+      <PackagePath>resources\images\set1\bee\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\.DS_Store">
+      <PackagePath>resources\images\set2\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\background\.DS_Store">
+      <PackagePath>resources\images\set2\background\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\gun\.DS_Store">
+      <PackagePath>resources\images\set2\gun\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\heart\.DS_Store">
+      <PackagePath>resources\images\set2\heart\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\.DS_Store">
+      <PackagePath>resources\images\set2\mafia\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia1\.DS_Store">
+      <PackagePath>resources\images\set2\mafia\mafia1\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia2\.DS_Store">
+      <PackagePath>resources\images\set2\mafia\mafia2\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\police\.DS_Store">
+      <PackagePath>resources\images\set2\police\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\shogai\.DS_Store">
+      <PackagePath>resources\images\set2\shogai\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\tejo\.DS_Store">
+      <PackagePath>resources\images\set2\tejo\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\women\.DS_Store">
+      <PackagePath>resources\images\set2\women\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\.DS_Store">
+      <PackagePath>resources\images\set3\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\background\.DS_Store">
+      <PackagePath>resources\images\set3\background\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\fire\.DS_Store">
+      <PackagePath>resources\images\set3\fire\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\hime\.DS_Store">
+      <PackagePath>resources\images\set3\hime\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\maou\.DS_Store">
+      <PackagePath>resources\images\set3\maou\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\monstar\.DS_Store">
+      <PackagePath>resources\images\set3\monstar\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\murabito\.DS_Store">
+      <PackagePath>resources\images\set3\murabito\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\wizard\.DS_Store">
+      <PackagePath>resources\images\set3\wizard\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\wood\.DS_Store">
+      <PackagePath>resources\images\set3\wood\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\yusha\.DS_Store">
+      <PackagePath>resources\images\set3\yusha\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\.DS_Store">
+      <PackagePath>resources\images\set4\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\.DS_Store">
+      <PackagePath>resources\images\set5\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\background\.DS_Store">
+      <PackagePath>resources\images\set5\background\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\car1\.DS_Store">
+      <PackagePath>resources\images\set5\car1\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\car2\.DS_Store">
+      <PackagePath>resources\images\set5\car2\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\car3\.DS_Store">
+      <PackagePath>resources\images\set5\car3\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\car4\.DS_Store">
+      <PackagePath>resources\images\set5\car4\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\background.jpg">
+      <PackagePath>resources\images\set1\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\background\background_front.jpg">
+      <PackagePath>resources\images\set1\background\background_front.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\background\background_front2.jpg">
+      <PackagePath>resources\images\set1\background\background_front2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\background\background_front3.jpg">
+      <PackagePath>resources\images\set1\background\background_front3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\background\background_side.jpg">
+      <PackagePath>resources\images\set1\background\background_side.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\background\background_side2.jpg">
+      <PackagePath>resources\images\set1\background\background_side2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\background\background_top.jpg">
+      <PackagePath>resources\images\set1\background\background_top.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\background\background_top2.jpg">
+      <PackagePath>resources\images\set1\background\background_top2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\background\background_top3.jpg">
+      <PackagePath>resources\images\set1\background\background_top3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\background.jpg">
+      <PackagePath>resources\images\set2\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\background\background.jpg">
+      <PackagePath>resources\images\set2\background\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\background\background2.jpg">
+      <PackagePath>resources\images\set2\background\background2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\background\background3.jpg">
+      <PackagePath>resources\images\set2\background\background3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\background\background_room.jpg">
+      <PackagePath>resources\images\set2\background\background_room.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\background\background_room2.jpg">
+      <PackagePath>resources\images\set2\background\background_room2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\background\background_room3.jpg">
+      <PackagePath>resources\images\set2\background\background_room3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\background.jpg">
+      <PackagePath>resources\images\set3\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\background\background.jpg">
+      <PackagePath>resources\images\set3\background\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\background\background2.jpg">
+      <PackagePath>resources\images\set3\background\background2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\background\background3.jpg">
+      <PackagePath>resources\images\set3\background\background3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\background\background_top.jpg">
+      <PackagePath>resources\images\set3\background\background_top.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\background\background_top2.jpg">
+      <PackagePath>resources\images\set3\background\background_top2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\background\background_top3.jpg">
+      <PackagePath>resources\images\set3\background\background_top3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\background.jpg">
+      <PackagePath>resources\images\set4\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\background\background_side.jpg">
+      <PackagePath>resources\images\set4\background\background_side.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\background\background_side2.jpg">
+      <PackagePath>resources\images\set4\background\background_side2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\background\background_side3.jpg">
+      <PackagePath>resources\images\set4\background\background_side3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\background\background_top.jpg">
+      <PackagePath>resources\images\set4\background\background_top.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\background\background_top2.jpg">
+      <PackagePath>resources\images\set4\background\background_top2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\background\background_top3.jpg">
+      <PackagePath>resources\images\set4\background\background_top3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\background.jpg">
+      <PackagePath>resources\images\set5\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\background\background.jpg">
+      <PackagePath>resources\images\set5\background\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\background\background2.jpg">
+      <PackagePath>resources\images\set5\background\background2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\background\background3.jpg">
+      <PackagePath>resources\images\set5\background\background3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\background\background_top.jpg">
+      <PackagePath>resources\images\set5\background\background_top.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\background\background_top2.jpg">
+      <PackagePath>resources\images\set5\background\background_top2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\background\background_top3.jpg">
+      <PackagePath>resources\images\set5\background\background_top3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

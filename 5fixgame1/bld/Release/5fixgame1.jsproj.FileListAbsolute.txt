@@ -1,0 +1,9 @@
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bin\Release\resources.pri
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bin\Release\AppxManifest.xml
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bin\Release\5fixgame1.build.appxrecipe
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bld\Release\priconfig.xml
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bld\Release\layout.resfiles
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bld\Release\resources.resfiles
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bld\Release\pri.resfiles
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bld\Release\LanguageQualifiers.txt
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bld\Release\ProjectArchitectures.txt
