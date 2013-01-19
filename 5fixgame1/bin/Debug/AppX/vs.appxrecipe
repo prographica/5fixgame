@@ -5,7 +5,7 @@
     <WindowsUser>prographica</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>F84FE5C1C8E07EEA178723A301D7E504EBE0556899BCBCC2839C5963B6C776F6</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>7DEA87C6206E7F266B676836418C3E81D6BB2170029FF572B6E6F2C326F13EB6</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d4d034fb-e188-4aa3-af82-9460cbc0a3cc_1.0.0.0_neutral__6mfgx0w9a07nr</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d4d034fb-e188-4aa3-af82-9460cbc0a3cc_6mfgx0w9a07nr!App</RegisteredUserModeAppID>
     <RegisteredPackageID>d4d034fb-e188-4aa3-af82-9460cbc0a3cc</RegisteredPackageID>
@@ -16,7 +16,7 @@
     <AppXManifest Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-01-19T00:56:43.536</Modified>
+      <Modified>2013-01-19T01:27:17.505</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -30,27 +30,36 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2013-01-19T00:56:40.880</Modified>
+      <Modified>2013-01-19T01:15:18.132</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\logo.png">
-      <PackagePath>images\logo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-09-18T11:52:22.000</Modified>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <Modified>2013-01-19T00:52:06.044</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\smalllogo.png">
-      <PackagePath>images\smalllogo.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-09-18T11:52:22.000</Modified>
+      <Modified>2013-01-19T00:52:06.048</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\splashscreen.png">
-      <PackagePath>images\splashscreen.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\smalllogo.scale-80.png">
+      <PackagePath>images\smalllogo.scale-80.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-09-18T11:52:22.000</Modified>
+      <Modified>2013-01-19T00:52:06.047</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\storelogo.png">
-      <PackagePath>images\storelogo.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\smalllogo.targetsize-16.png">
+      <PackagePath>images\smalllogo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-09-18T11:52:22.000</Modified>
+      <Modified>2013-01-19T00:52:06.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-19T00:52:06.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-19T00:52:06.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\button_blue.png">
       <PackagePath>resources\images\button_blue.png</PackagePath>
@@ -112,6 +121,44 @@
       <PackagePath>resources\images\set1\bee\righthand.png</PackagePath>
       <Modified>2012-12-20T11:48:50.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\icon\128x128.png">
+      <PackagePath>resources\images\set1\icon\128x128.png</PackagePath>
+      <Modified>2013-01-19T00:52:06.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\icon\150x150.png">
+      <PackagePath>resources\images\set1\icon\150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-19T00:52:06.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\icon\16x16.png">
+      <PackagePath>resources\images\set1\icon\16x16.png</PackagePath>
+      <Modified>2013-01-19T00:52:06.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\icon\24x24.png">
+      <PackagePath>resources\images\set1\icon\24x24.png</PackagePath>
+      <Modified>2013-01-19T00:52:06.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\icon\30x30.png">
+      <PackagePath>resources\images\set1\icon\30x30.png</PackagePath>
+      <Modified>2013-01-19T00:52:06.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\icon\310x150.png">
+      <PackagePath>resources\images\set1\icon\310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-19T00:52:06.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\icon\50x50.png">
+      <PackagePath>resources\images\set1\icon\50x50.png</PackagePath>
+      <Modified>2013-01-19T00:52:06.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\icon\620x300.png">
+      <PackagePath>resources\images\set1\icon\620x300.png</PackagePath>
+      <Modified>2013-01-19T00:52:06.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set1\icon\75x75.png">
+      <PackagePath>resources\images\set1\icon\75x75.png</PackagePath>
+      <Modified>2013-01-19T00:52:06.058</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\gun\gun.png">
       <PackagePath>resources\images\set2\gun\gun.png</PackagePath>
       <Modified>2012-12-20T05:59:50.000</Modified>
@@ -119,6 +166,42 @@
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\heart\heart.png">
       <PackagePath>resources\images\set2\heart\heart.png</PackagePath>
       <Modified>2012-12-20T06:00:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\icon\128x128.png">
+      <PackagePath>resources\images\set2\icon\128x128.png</PackagePath>
+      <Modified>2013-01-19T00:58:12.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\icon\150x150.png">
+      <PackagePath>resources\images\set2\icon\150x150.png</PackagePath>
+      <Modified>2013-01-19T00:58:12.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\icon\16x16.png">
+      <PackagePath>resources\images\set2\icon\16x16.png</PackagePath>
+      <Modified>2013-01-19T00:58:12.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\icon\24x24.png">
+      <PackagePath>resources\images\set2\icon\24x24.png</PackagePath>
+      <Modified>2013-01-19T00:58:12.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\icon\30x30.png">
+      <PackagePath>resources\images\set2\icon\30x30.png</PackagePath>
+      <Modified>2013-01-19T00:58:12.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\icon\310x150.png">
+      <PackagePath>resources\images\set2\icon\310x150.png</PackagePath>
+      <Modified>2013-01-19T00:58:12.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\icon\50x50.png">
+      <PackagePath>resources\images\set2\icon\50x50.png</PackagePath>
+      <Modified>2013-01-19T00:58:12.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\icon\620x300.png">
+      <PackagePath>resources\images\set2\icon\620x300.png</PackagePath>
+      <Modified>2013-01-19T00:58:12.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\icon\75x75.png">
+      <PackagePath>resources\images\set2\icon\75x75.png</PackagePath>
+      <Modified>2013-01-19T00:58:12.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set2\mafia\mafia1\body.png">
       <PackagePath>resources\images\set2\mafia\mafia1\body.png</PackagePath>
@@ -239,6 +322,42 @@
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\hime\rightleg.png">
       <PackagePath>resources\images\set3\hime\rightleg.png</PackagePath>
       <Modified>2012-12-22T08:25:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\icon\128x128.png">
+      <PackagePath>resources\images\set3\icon\128x128.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\icon\150x150.png">
+      <PackagePath>resources\images\set3\icon\150x150.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\icon\16x16.png">
+      <PackagePath>resources\images\set3\icon\16x16.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\icon\24x24.png">
+      <PackagePath>resources\images\set3\icon\24x24.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\icon\30x30.png">
+      <PackagePath>resources\images\set3\icon\30x30.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\icon\310x150.png">
+      <PackagePath>resources\images\set3\icon\310x150.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\icon\50x50.png">
+      <PackagePath>resources\images\set3\icon\50x50.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\icon\620x300.png">
+      <PackagePath>resources\images\set3\icon\620x300.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\icon\75x75.png">
+      <PackagePath>resources\images\set3\icon\75x75.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.148</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set3\maou\body.png">
       <PackagePath>resources\images\set3\maou\body.png</PackagePath>
@@ -400,6 +519,42 @@
       <PackagePath>resources\images\set4\girl\rightleg.png</PackagePath>
       <Modified>2012-12-20T11:48:34.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\icon\128x128.png">
+      <PackagePath>resources\images\set4\icon\128x128.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\icon\150x150.png">
+      <PackagePath>resources\images\set4\icon\150x150.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\icon\16x16.png">
+      <PackagePath>resources\images\set4\icon\16x16.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\icon\24x24.png">
+      <PackagePath>resources\images\set4\icon\24x24.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\icon\30x30.png">
+      <PackagePath>resources\images\set4\icon\30x30.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\icon\310x150.png">
+      <PackagePath>resources\images\set4\icon\310x150.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\icon\50x50.png">
+      <PackagePath>resources\images\set4\icon\50x50.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\icon\620x300.png">
+      <PackagePath>resources\images\set4\icon\620x300.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\icon\75x75.png">
+      <PackagePath>resources\images\set4\icon\75x75.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.164</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set4\witch\body.png">
       <PackagePath>resources\images\set4\witch\body.png</PackagePath>
       <Modified>2012-12-20T11:48:34.000</Modified>
@@ -452,6 +607,42 @@
       <PackagePath>resources\images\set5\car4\car4_1.png</PackagePath>
       <Modified>2012-12-20T06:13:52.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\icon\128x128.png">
+      <PackagePath>resources\images\set5\icon\128x128.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\icon\150x150.png">
+      <PackagePath>resources\images\set5\icon\150x150.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\icon\16x16.png">
+      <PackagePath>resources\images\set5\icon\16x16.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\icon\24x24.png">
+      <PackagePath>resources\images\set5\icon\24x24.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\icon\30x30.png">
+      <PackagePath>resources\images\set5\icon\30x30.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\icon\310x150.png">
+      <PackagePath>resources\images\set5\icon\310x150.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\icon\50x50.png">
+      <PackagePath>resources\images\set5\icon\50x50.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\icon\620x300.png">
+      <PackagePath>resources\images\set5\icon\620x300.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\images\set5\icon\75x75.png">
+      <PackagePath>resources\images\set5\icon\75x75.png</PackagePath>
+      <Modified>2013-01-19T01:15:18.188</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\js\default.js">
       <PackagePath>js\default.js</PackagePath>
       <Modified>2012-09-20T18:39:56.000</Modified>
@@ -490,7 +681,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\index.js">
       <PackagePath>resources\js\index.js</PackagePath>
-      <Modified>2013-01-19T00:55:13.620</Modified>
+      <Modified>2013-01-19T00:58:14.998</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\jquery-1.8.2.min.js">
       <PackagePath>resources\js\jquery-1.8.2.min.js</PackagePath>
@@ -506,7 +697,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\createjs.extend.js">
       <PackagePath>resources\js\createjs.extend.js</PackagePath>
-      <Modified>2013-01-19T00:55:52.443</Modified>
+      <Modified>2013-01-19T00:58:14.997</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\tweenjs-0.3.0.min.js">
       <PackagePath>resources\js\tweenjs-0.3.0.min.js</PackagePath>
@@ -786,7 +977,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-01-19T00:56:43.443</Modified>
+      <Modified>2013-01-19T01:27:17.411</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
