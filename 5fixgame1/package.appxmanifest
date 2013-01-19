@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="d4d034fb-e188-4aa3-af82-9460cbc0a3cc" Version="1.0.0.0" Publisher="CN=prographica" />
+  <Identity Name="d4d034fb-e188-4aa3-af82-9460cbc0a3cc" Version="1.0.0.1" Publisher="CN=prographica" />
   <Properties>
     <DisplayName>5fixgame1</DisplayName>
     <PublisherDisplayName>prographica</PublisherDisplayName>
