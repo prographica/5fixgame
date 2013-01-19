@@ -16,7 +16,7 @@
     <AppXManifest Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-01-18T18:25:49.531</Modified>
+      <Modified>2013-01-19T00:56:43.536</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -30,7 +30,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2013-01-18T18:00:31.948</Modified>
+      <Modified>2013-01-19T00:56:40.880</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -490,7 +490,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\index.js">
       <PackagePath>resources\js\index.js</PackagePath>
-      <Modified>2013-01-18T18:14:14.730</Modified>
+      <Modified>2013-01-19T00:55:13.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\jquery-1.8.2.min.js">
       <PackagePath>resources\js\jquery-1.8.2.min.js</PackagePath>
@@ -503,6 +503,10 @@
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\lib.score.js">
       <PackagePath>resources\js\lib.score.js</PackagePath>
       <Modified>2012-12-14T08:50:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\createjs.extend.js">
+      <PackagePath>resources\js\createjs.extend.js</PackagePath>
+      <Modified>2013-01-19T00:55:52.443</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\resources\js\tweenjs-0.3.0.min.js">
       <PackagePath>resources\js\tweenjs-0.3.0.min.js</PackagePath>
@@ -782,7 +786,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-01-18T18:25:49.344</Modified>
+      <Modified>2013-01-19T00:56:43.443</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

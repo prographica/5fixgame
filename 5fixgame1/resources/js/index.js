@@ -1,10 +1,4 @@
 /**
- * コンフィグの設定
- */
-createjs.DisplayObject.suppressCrossDomainErrors = true;
-createjs.Ticker.setFPS(60);
-
-/**
  * グローバルオブジェクトを取得 
  */
 var stage = null;

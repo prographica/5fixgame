@@ -7,3 +7,16 @@ C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bld\Debug\r
 C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bld\Debug\pri.resfiles
 C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bld\Debug\LanguageQualifiers.txt
 C:\Users\prographica\Visual Studio 2012\Projects\5fixgame1\5fixgame1\bld\Debug\ProjectArchitectures.txt
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bin\Debug\resources.pri
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bin\Debug\AppxManifest.xml
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bin\Debug\5fixgame1.build.appxrecipe
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bld\Debug\priconfig.xml.intermediate
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bld\Debug\layout.resfiles.intermediate
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bld\Debug\resources.resfiles.intermediate
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bld\Debug\pri.resfiles.intermediate
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bld\Debug\priconfig.xml
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bld\Debug\layout.resfiles
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bld\Debug\resources.resfiles
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bld\Debug\pri.resfiles
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bld\Debug\LanguageQualifiers.txt
+C:\Users\prographica\Visual Studio 2012\Projects\5fixgame\5fixgame1\bld\Debug\ProjectArchitectures.txt

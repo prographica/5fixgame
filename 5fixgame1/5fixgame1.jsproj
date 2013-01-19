@@ -241,6 +241,7 @@
     <Content Include="resources\js\jquery-1.8.2.min.js" />
     <Content Include="resources\js\lib.modal.js" />
     <Content Include="resources\js\lib.score.js" />
+    <Content Include="resources\js\createjs.extend.js" />
     <Content Include="resources\js\tweenjs-0.3.0.min.js" />
     <None Include="5fixgame1_TemporaryKey.pfx" />
   </ItemGroup>

@@ -1,10 +1,4 @@
 /**
- * コンフィグの設定 
- */
-createjs.DisplayObject.suppressCrossDomainErrors = true;
-createjs.Ticker.setFPS(60);
-
-/**
  * グローバルオブジェクトを取得 
  */
 var stage = null;
@@ -16,39 +10,16 @@ var score = new lib.score({
     type: ['hit', 'clear', 'bonus']
 });
 
+
+
 /**
- * アプリエントリポイント 
+ * アプリエントリポイント（ここから書き始めます） 
  */
 $(document).ready(function(){
     setStartboard();
 });
 
-/**
- * スタート画面を表示 
- */
-var setStartboard = function(){
-    var m = new lib.modal();
-    m.show();
 
-    var s = new app.startboard({
-        title: 'いじわる熊をやっつけろ！',
-        desc: '森にあらわれたいじわる熊にリンゴをなげつけて、森から追い出せ！',
-        listeners: {
-            close: function(){
-                m.hide();
-                s.hide();
-                
-                setTimeout(function(){
-                    setPlay();
-                }, 1000);
-                return;
-            }
-        }
-    });
-    s.show();
-    return;
-
-};
 
 /**
  * ゲーム画面を作成して表示 
@@ -63,10 +34,12 @@ var setPlay = function(){
     var width = $(window).width();
     var height = $(window).height();
 
+	//キャンバスの作成
     stage = $('<canvas id="stage" />').appendTo($(document.body));
     stage.attr('width', width);
     stage.attr('height', height);
     
+    //CreateJSで使うステージを作成
     stage = new createjs.Stage("stage");
     createjs.Ticker.addListener(stage);
 
@@ -99,8 +72,10 @@ var setPlay = function(){
         //スペースをクリックしたとき
         case 32:
             if(mc.getStatus() === 'normal'){
+                //万歳させる
                 mc.banzai();
             
+            	//武器を生成
                 var wp = new app.weapon({
                     url: app.config.baseUrl + "/images/set1/accesarry/apple.png",
                     scale: .3,
@@ -110,6 +85,8 @@ var setPlay = function(){
                 stage.addChild(wp.getObject());
 
                 setTimeout(function(){
+                    
+                    //武器を一定方向に投げる
                     wp.shoot({
                         y: 0,
                         time: 1000
@@ -137,6 +114,7 @@ var setPlay = function(){
     };
     $(window).keydown(keyEvent.keydown);
 
+	//キーパッドの操作
     var keyPad = new app.keypad({
         listeners: {
             click: function(code){
@@ -163,7 +141,7 @@ var setPlay = function(){
         }
     });
 
-    //敵を作成するためのまとめ関数（1体できる）
+    //敵を作成するためのまとめ関数（この関数を実行すると1体できる）
     enemy = [];
     var setEn = function(initx, inity, scale){
 
@@ -229,7 +207,7 @@ var setPlay = function(){
     }
 
     //敵を10体作成
-    for(var i = 0; i < 1; i++){
+    for(var i = 0; i < 10; i++){
         enemy.push(
             setEn($(window).width() * Math.random(), 300 * Math.random(), 0.2)
         );
@@ -238,6 +216,40 @@ var setPlay = function(){
 };
 
 
+
+
+/**
+ * スタート画面を表示 
+ */
+var setStartboard = function(){
+    var m = new lib.modal();
+    m.show();
+
+    var s = new app.startboard({
+        title: 'いじわる熊をやっつけろ！',
+        desc: '森にあらわれたいじわる熊にリンゴをなげつけて、森から追い出せ！',
+        listeners: {
+            close: function(){
+                m.hide();
+                s.hide();
+                
+                setTimeout(function(){
+                    setPlay();
+                }, 1000);
+                return;
+            }
+        }
+    });
+    s.show();
+    return;
+
+};
+
+
+
+/**
+ * ゲーム終了後のスコアボードの表示
+ */
 var setScoreboard = function(){
     var m = new lib.modal();
     m.show();
