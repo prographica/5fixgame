@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="d4d034fb-e188-4aa3-af82-9460cbc0a3cc" Version="1.0.0.1" Publisher="CN=prographica" />
+  <Identity Name="2789Smokemeet.198986DEBEB75" Version="1.0.0.3" Publisher="CN=A6296C19-8791-4104-9263-51432C23DA09" />
   <Properties>
-    <DisplayName>5fixgame1</DisplayName>
-    <PublisherDisplayName>prographica</PublisherDisplayName>
+    <DisplayName>戦え！森のくまさん</DisplayName>
+    <PublisherDisplayName>techGarage</PublisherDisplayName>
     <Logo>images\storelogo.png</Logo>
   </Properties>
   <Prerequisites>
@@ -15,8 +15,8 @@
   </Resources>
   <Applications>
     <Application Id="App" StartPage="default.html">
-      <VisualElements DisplayName="いじわる熊をやっつけろ！" Logo="resources\images\set1\icon\150x150.png" SmallLogo="images\smalllogo.png" Description="森にあらわれたいじわる熊にリンゴをなげつけて、森から追い出せ！" ForegroundText="light" BackgroundColor="#464646" ToastCapable="false">
-        <DefaultTile ShowName="allLogos" ShortName="いじわる熊をやっつけろ！" WideLogo="resources\images\set1\icon\310x150.png" />
+      <VisualElements DisplayName="戦え！森のくまさん" Logo="resources\images\set1\icon\150x150.png" SmallLogo="images\smalllogo.png" Description="森にあらわれたいじわる熊にリンゴをなげつけて、森から追い出せ！" ForegroundText="light" BackgroundColor="#464646" ToastCapable="false">
+        <DefaultTile ShowName="allLogos" ShortName="戦え！森のくまさん" WideLogo="resources\images\set1\icon\310x150.png" />
         <SplashScreen Image="images\splashscreen.png" BackgroundColor="#000000" />
         <InitialRotationPreference>
           <Rotation Preference="landscape" />

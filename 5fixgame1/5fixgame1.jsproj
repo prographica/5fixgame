@@ -47,11 +47,13 @@
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetPlatformVersion>8.0</TargetPlatformVersion>
     <DefaultLanguage>ja-JP</DefaultLanguage>
-    <PackageCertificateKeyFile>5fixgame1_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateKeyFile>5fixgame1_StoreKey.pfx</PackageCertificateKeyFile>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
     <AppxSymbolPackageEnabled>False</AppxSymbolPackageEnabled>
+    <PackageCertificateThumbprint>FC2EB410F6AFA770AFCA10F9A624E825AEA606D8</PackageCertificateThumbprint>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="5fixgame1_StoreKey.pfx" />
     <Content Include="css\default.css" />
     <Content Include="default.html" />
     <Content Include="images\logo.scale-100.png" />
@@ -65,14 +67,13 @@
     <Content Include="images\storelogo.scale-100.png" />
     <Content Include="js\default.js" />
     <Content Include="js\jquery-1.8.0-windows8-ready.js" />
+    <None Include="Package.StoreAssociation.xml" />
     <Content Include="resources\css\general.css" />
-    <Content Include="resources\docs\privacy.txt" />
     <Content Include="resources\images\button_blue.png" />
     <Content Include="resources\images\button_cross.png" />
     <Content Include="resources\images\button_green.png" />
     <Content Include="resources\images\button_red.png" />
     <Content Include="resources\images\button_yellow.png" />
-    <Content Include="resources\images\set1\accesarry\.DS_Store" />
     <Content Include="resources\images\set1\accesarry\apple.png" />
     <Content Include="resources\images\set1\accesarry\honey.png" />
     <Content Include="resources\images\set1\background.jpg" />
@@ -89,7 +90,6 @@
     <Content Include="resources\images\set1\bear\leftleg.png" />
     <Content Include="resources\images\set1\bear\righthand.png" />
     <Content Include="resources\images\set1\bear\rightleg.png" />
-    <Content Include="resources\images\set1\bee\.DS_Store" />
     <Content Include="resources\images\set1\bee\body.png" />
     <Content Include="resources\images\set1\bee\lefthand.png" />
     <Content Include="resources\images\set1\bee\righthand.png" />
@@ -110,7 +110,6 @@
     <Content Include="resources\js\app.weapon.js" />
     <Content Include="resources\js\easeljs-0.5.0.min.js" />
     <Content Include="resources\js\index.js" />
-    <Content Include="resources\js\jquery-1.8.2.min.js" />
     <Content Include="resources\js\lib.modal.js" />
     <Content Include="resources\js\lib.score.js" />
     <Content Include="resources\js\createjs.extend.js" />

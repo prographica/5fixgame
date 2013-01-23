@@ -1,4 +1,4 @@
-/**
+﻿/**
  * グローバルオブジェクトを取得 
  */
 var stage = null;
@@ -226,7 +226,7 @@ var setStartboard = function(){
     m.show();
 
     var s = new app.startboard({
-        title: 'いじわる熊をやっつけろ！',
+        title: '戦え！森のくまさん',
         desc: '森にあらわれたいじわる熊にリンゴをなげつけて、森から追い出せ！',
         listeners: {
             close: function(){

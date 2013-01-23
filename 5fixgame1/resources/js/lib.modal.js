@@ -1,4 +1,4 @@
-var lib = lib || {};
+﻿var lib = lib || {};
 
 
 (function(){
